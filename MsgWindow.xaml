@@ -1,0 +1,13 @@
+﻿<controls:MetroWindow x:Name="MsgWindow" x:Class="MsgWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:controls="http://metro.mahapps.com/winfx/xaml/controls"
+        xmlns:local="clr-namespace:BlockGL"
+        mc:Ignorable="d" Height="300" Width="300"  WindowTitleBrush="#FF007ACE" ShowSystemMenuOnRightClick="False" Background="#FF007ACE" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" SnapsToDevicePixels="True" TitlebarHeight="34" ShowIconOnTitleBar="False" Foreground="White">
+    <Grid>
+        <controls:MetroContentControl x:Name="ContentBox" Margin="10" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Foreground="White" Content=""/>
+
+    </Grid>
+</controls:MetroWindow>

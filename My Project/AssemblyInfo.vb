@@ -12,11 +12,11 @@ Imports System.Windows
 '查看程序集特性的值
 
 <Assembly: AssemblyTitle("BlockGL")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
+<Assembly: AssemblyDescription("Block Game With OpenGL")>
+<Assembly: AssemblyCompany("NSDN")>
 <Assembly: AssemblyProduct("BlockGL")>
-<Assembly: AssemblyCopyright("Copyright ©  2015")>
-<Assembly: AssemblyTrademark("")>
+<Assembly: AssemblyCopyright("Copyright © NSDN 2015")>
+<Assembly: AssemblyTrademark("BlockGL")>
 <Assembly: ComVisible(false)>
 
 '若要开始生成可本地化的应用程序，请
